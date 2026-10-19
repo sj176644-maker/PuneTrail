@@ -1,0 +1,3 @@
+/* Placement only: floats the button at the header's top-right without changing the header's size or layout. */
+header { position: relative; }
+#auth-btn { position: absolute; top: 12px; right: 16px; }
