@@ -4,7 +4,7 @@
 
 A lightweight, single-page trip planner for Pune, Maharashtra: browse forts and heritage sites, build a one-day itinerary, tick off checkpoints, and open the route in Google Maps. Everything runs in the browser from one file, with no build step and no API keys.
 
-**Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO/ *(replace after enabling GitHub Pages)*
+**Live demo:** [https://sj176644-maker.github.io/PuneTrail/]
 
 ![Explore page](docs/screenshot-explore.png)
 ![Generated itinerary](docs/screenshot-trip.png)
